@@ -23,8 +23,6 @@ Built with Python and Tkinter, with no external dependencies.
 
 No `pip install` is needed, because the app only uses the standard library (`tkinter`, `heapq`).
 
-> **Linux users:** if Tkinter is missing, install it with `sudo apt install python3-tk`.
-
 ## How to Run
 
 ```bash
