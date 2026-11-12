@@ -112,4 +112,6 @@ Graph representation (adjacency list), Dijkstra's shortest-path algorithm, prior
 
 ## Author
 
-*Your name, course and college here*
+Akansha Saroha
+MCA AI/ML
+Chandigarh University
